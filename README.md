@@ -2,14 +2,16 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=BeSuaIT" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=BeSuaIT" height="150" alt="languages graph"  />
-</div>
+<br clear="both">
+
+<img align="left" height="300" src="https://i.imgur.com/H7BCe1S.png"  />
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=BeSuaIT" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=BeSuaIT" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -60,10 +62,5 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
-
-###
-
-
-<align="center">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fhwdxydqmvjdaqctirv6fojfue&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31fhwdxydqmvjdaqctirv6fojfue&redirect=true)
 
 ###
