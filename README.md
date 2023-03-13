@@ -63,10 +63,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Lưu Minh Hoàng">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fhwdxydqmvjdaqctirv6fojfue&count={count})
 
 ###
