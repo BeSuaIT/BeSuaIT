@@ -63,8 +63,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/BeSuaIT/BeSuaIT/blob/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://open.spotify.com/user/Lưu Minh Hoàng">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
